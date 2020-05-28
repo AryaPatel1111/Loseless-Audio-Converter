@@ -1,0 +1,10 @@
+Libraries required:
+1. Matplotlib.pyplot
+2. numpy
+3. wave
+4. sys
+5. math
+6. contexlib
+7. pylab
+8. from scipy.io import wavfile
+9. pyaudio
